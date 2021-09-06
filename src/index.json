@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "other": "./other",
+    "test-button": "./test-button"
+  },
+  "componentGenerics": {
+    "genericsTest": true
+  }
+}

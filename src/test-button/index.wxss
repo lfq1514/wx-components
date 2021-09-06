@@ -1,0 +1,14 @@
+@import "../common.wxss";
+@import "../reset.wxss";
+
+.btn {
+  color:#ccc;
+  width: 100px;
+  height: 30px;
+  border-radius: 25px;
+  border: 1px solid #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
