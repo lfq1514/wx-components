@@ -1,4 +1,4 @@
-# miniprogram-custom-component
+# qy-wx-components
 
 小程序自定义组件开发模板：
 
